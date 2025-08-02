@@ -1,0 +1,355 @@
+{
+  "title": "The Only Thing They Fear Is You",
+  "artist": "Mick Gordon",
+  "difficulty": "Editor",
+  "audioLeadIn": 0.0,
+  "previewTime": 0.0,
+  "notes": [
+    {
+      "time": 0.3746,
+      "lane": 0,
+      "type": "TAP"
+    },
+    {
+      "time": 0.6696,
+      "lane": 3,
+      "type": "TAP"
+    },
+    {
+      "time": 1.0196,
+      "lane": 3,
+      "type": "TAP"
+    },
+    {
+      "time": 1.5095999,
+      "lane": 3,
+      "type": "TAP"
+    },
+    {
+      "time": 1.8045999,
+      "lane": 3,
+      "type": "TAP"
+    },
+    {
+      "time": 1.9995999,
+      "lane": 3,
+      "type": "TAP"
+    },
+    {
+      "time": 2.3846,
+      "lane": 0,
+      "type": "TAP"
+    },
+    {
+      "time": 2.6095998,
+      "lane": 0,
+      "type": "TAP"
+    },
+    {
+      "time": 2.9996,
+      "lane": 3,
+      "type": "TAP"
+    },
+    {
+      "time": 3.4196,
+      "lane": 3,
+      "type": "TAP"
+    },
+    {
+      "time": 3.8533812,
+      "lane": 3,
+      "type": "TAP"
+    },
+    {
+      "time": 4.288691,
+      "lane": 0,
+      "type": "HOLD",
+      "endTime": 4.593691
+    },
+    {
+      "time": 4.8236914,
+      "lane": 0,
+      "type": "TAP"
+    },
+    {
+      "time": 5.051364,
+      "lane": 0,
+      "type": "TAP"
+    },
+    {
+      "time": 5.3187585,
+      "lane": 3,
+      "type": "TAP"
+    },
+    {
+      "time": 5.715043,
+      "lane": 3,
+      "type": "TAP"
+    },
+    {
+      "time": 6.065043,
+      "lane": 3,
+      "type": "TAP"
+    },
+    {
+      "time": 6.437304,
+      "lane": 3,
+      "type": "TAP"
+    },
+    {
+      "time": 6.592304,
+      "lane": 3,
+      "type": "TAP"
+    },
+    {
+      "time": 6.952822,
+      "lane": 0,
+      "type": "TAP"
+    },
+    {
+      "time": 7.2509246,
+      "lane": 0,
+      "type": "TAP"
+    },
+    {
+      "time": 7.602968,
+      "lane": 3,
+      "type": "TAP"
+    },
+    {
+      "time": 7.987968,
+      "lane": 3,
+      "type": "TAP"
+    },
+    {
+      "time": 8.118284,
+      "lane": 0,
+      "type": "TAP"
+    },
+    {
+      "time": 8.407684,
+      "lane": 0,
+      "type": "TAP"
+    },
+    {
+      "time": 8.63532,
+      "lane": 1,
+      "type": "TAP"
+    },
+    {
+      "time": 8.81032,
+      "lane": 1,
+      "type": "TAP"
+    },
+    {
+      "time": 9.624228,
+      "lane": 0,
+      "type": "TAP"
+    },
+    {
+      "time": 9.644228,
+      "lane": 1,
+      "type": "TAP"
+    },
+    {
+      "time": 9.649228,
+      "lane": 2,
+      "type": "TAP"
+    },
+    {
+      "time": 9.654228,
+      "lane": 3,
+      "type": "TAP"
+    },
+    {
+      "time": 9.9772215,
+      "lane": 0,
+      "type": "TAP"
+    },
+    {
+      "time": 10.286753,
+      "lane": 0,
+      "type": "TAP"
+    },
+    {
+      "time": 10.306753,
+      "lane": 1,
+      "type": "TAP"
+    },
+    {
+      "time": 10.790077,
+      "lane": 3,
+      "type": "TAP"
+    },
+    {
+      "time": 10.825077,
+      "lane": 2,
+      "type": "TAP"
+    },
+    {
+      "time": 11.378191,
+      "lane": 3,
+      "type": "TAP"
+    },
+    {
+      "time": 11.780759,
+      "lane": 0,
+      "type": "TAP"
+    },
+    {
+      "time": 12.194765,
+      "lane": 0,
+      "type": "TAP"
+    },
+    {
+      "time": 12.223971,
+      "lane": 3,
+      "type": "TAP"
+    },
+    {
+      "time": 12.50253,
+      "lane": 2,
+      "type": "TAP"
+    },
+    {
+      "time": 13.187342,
+      "lane": 2,
+      "type": "HOLD",
+      "endTime": 13.552341
+    },
+    {
+      "time": 13.597936,
+      "lane": 1,
+      "type": "HOLD",
+      "endTime": 14.002935
+    },
+    {
+      "time": 14.396017,
+      "lane": 3,
+      "type": "TAP"
+    },
+    {
+      "time": 14.436017,
+      "lane": 1,
+      "type": "TAP"
+    },
+    {
+      "time": 14.999706,
+      "lane": 1,
+      "type": "TAP"
+    },
+    {
+      "time": 15.50738,
+      "lane": 0,
+      "type": "TAP"
+    },
+    {
+      "time": 15.913277,
+      "lane": 1,
+      "type": "TAP"
+    },
+    {
+      "time": 16.207481,
+      "lane": 1,
+      "type": "TAP"
+    },
+    {
+      "time": 16.689047,
+      "lane": 2,
+      "type": "TAP"
+    },
+    {
+      "time": 17.018715,
+      "lane": 1,
+      "type": "TAP"
+    },
+    {
+      "time": 17.523262,
+      "lane": 1,
+      "type": "HOLD",
+      "endTime": 17.878262
+    },
+    {
+      "time": 18.366812,
+      "lane": 2,
+      "type": "TAP"
+    },
+    {
+      "time": 18.381811,
+      "lane": 1,
+      "type": "TAP"
+    },
+    {
+      "time": 18.801216,
+      "lane": 1,
+      "type": "TAP"
+    },
+    {
+      "time": 18.806215,
+      "lane": 2,
+      "type": "TAP"
+    },
+    {
+      "time": 18.996592,
+      "lane": 2,
+      "type": "TAP"
+    },
+    {
+      "time": 19.021591,
+      "lane": 1,
+      "type": "TAP"
+    },
+    {
+      "time": 19.558064,
+      "lane": 1,
+      "type": "TAP"
+    },
+    {
+      "time": 20.01339,
+      "lane": 2,
+      "type": "TAP"
+    },
+    {
+      "time": 20.638771,
+      "lane": 2,
+      "type": "TAP"
+    },
+    {
+      "time": 20.648771,
+      "lane": 1,
+      "type": "TAP"
+    },
+    {
+      "time": 21.163157,
+      "lane": 3,
+      "type": "TAP"
+    },
+    {
+      "time": 21.463156,
+      "lane": 3,
+      "type": "TAP"
+    },
+    {
+      "time": 21.506605,
+      "lane": 2,
+      "type": "TAP"
+    },
+    {
+      "time": 21.511604,
+      "lane": 1,
+      "type": "TAP"
+    },
+    {
+      "time": 21.781605,
+      "lane": 1,
+      "type": "TAP"
+    },
+    {
+      "time": 21.811605,
+      "lane": 2,
+      "type": "TAP"
+    }
+  ],
+  "timingPoints": [
+  ]
+}

@@ -1,0 +1,44 @@
+{
+"titulo": "Mashle",
+"autor": "Masaru Yoko",
+"rhymer": "Donogha (Robert)",
+"genero": "Tema de Anime",
+"duracion": "2:43",
+"dificultad": "Normal",
+"descripcion": "Cremas rellenas!",
+"puntuacionMaxima": 0,
+"gradientesColor": {
+    "titulo": {
+        "colorInicio": "#FFFF00",
+        "colorFin": "#FF8000"
+    },
+    "autor": {
+        "colorInicio": "#FF5500",
+        "colorFin": "#FFC400"
+    },
+    "rhymer": {
+        "colorInicio": "#00EFFF",
+        "colorFin": "#F700FF"
+    },
+    "genero": {
+        "colorInicio": "#FFFFFF",
+        "colorFin": "#FFFFFF"
+    },
+    "duracion": {
+        "colorInicio": "#FFFFFF",
+        "colorFin": "#CCCCCC"
+    },
+    "dificultad": {
+        "colorInicio": "#FFFF00",
+        "colorFin": "#FFB300"
+    },
+    "descripcion": {
+        "colorInicio": "#E6E6E6",
+        "colorFin": "#999999"
+    },
+    "puntuacionMaxima": {
+        "colorInicio": "#00EFFF",
+        "colorFin": "#F700FF"
+    }
+}
+}

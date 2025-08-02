@@ -1,0 +1,44 @@
+{
+"titulo": "Pokemon: Zinnia",
+"autor": "Game Freak",
+"rhymer": "Donogha (Robert)",
+"genero": "Tema de Videojuego",
+"duracion": "5:00",
+"dificultad": "Normal",
+"descripcion": "Mil años de paz... y el prisma del cielo arde en rojo.",
+"puntuacionMaxima": 0,
+"gradientesColor": {
+    "titulo": {
+        "colorInicio": "#B00808",
+        "colorFin": "#770038"
+    },
+    "autor": {
+        "colorInicio": "#FF5500",
+        "colorFin": "#FFC400"
+    },
+    "rhymer": {
+        "colorInicio": "#00EFFF",
+        "colorFin": "#F700FF"
+    },
+    "genero": {
+        "colorInicio": "#FFFFFF",
+        "colorFin": "#FFFFFF"
+    },
+    "duracion": {
+        "colorInicio": "#FFFFFF",
+        "colorFin": "#FFFFFF"
+    },
+    "dificultad": {
+        "colorInicio": "#FFFF00",
+        "colorFin": "#FFB300"
+    },
+    "descripcion": {
+        "colorInicio": "#FFFFFF",
+        "colorFin": "#FFFFFF"
+    },
+    "puntuacionMaxima": {
+        "colorInicio": "#00EFFF",
+        "colorFin": "#F700FF"
+    }
+}
+}

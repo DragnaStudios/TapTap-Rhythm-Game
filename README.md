@@ -48,11 +48,6 @@ TapTap es un videojuego de ritmo desarrollado en Java utilizando el framework Li
    
    **Windows**:
    ```cmd
-   gradlew.bat lwjgl3:run
-   ```
-   
-   **Linux/Mac**:
-   ```bash
    ./gradlew lwjgl3:run
    ```
 
