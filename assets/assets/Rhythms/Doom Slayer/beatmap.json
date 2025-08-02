@@ -1,0 +1,180 @@
+{
+"metadata": {
+	"songTitle": "The Only Thing They Fear Is You",
+	"artist": "Mick Gordon",
+	"bpm": 150,
+	"audioFile": "Mick Gordon - The Only Thing They Fear Is You.mp3"
+},
+"timingPoints": [
+	{
+		"bpm": 150,
+		"timeSignature": "4/4"
+	}
+],
+"notes": [
+	{
+		"time": 2.4,
+		"type": "tap"
+	},
+	{
+		"time": 2.8,
+		"lane": 1,
+		"type": "tap"
+	},
+	{
+		"time": 3.2,
+		"lane": 2,
+		"type": "tap"
+	},
+	{
+		"time": 3.6,
+		"lane": 3,
+		"type": "tap"
+	},
+	{
+		"time": 4,
+		"type": "tap"
+	},
+	{
+		"time": 4.2,
+		"lane": 1,
+		"type": "tap"
+	},
+	{
+		"time": 4.4,
+		"lane": 2,
+		"type": "tap"
+	},
+	{
+		"time": 4.6,
+		"lane": 3,
+		"type": "tap"
+	},
+	{
+		"time": 5,
+		"type": "tap"
+	},
+	{
+		"time": 5,
+		"lane": 2,
+		"type": "tap"
+	},
+	{
+		"time": 5.4,
+		"lane": 1,
+		"type": "tap"
+	},
+	{
+		"time": 5.8,
+		"lane": 3,
+		"type": "tap"
+	},
+	{
+		"time": 6.2,
+		"type": "tap"
+	},
+	{
+		"time": 6.4,
+		"lane": 1,
+		"type": "tap"
+	},
+	{
+		"time": 6.6,
+		"lane": 2,
+		"type": "tap"
+	},
+	{
+		"time": 6.8,
+		"lane": 3,
+		"type": "tap"
+	},
+	{
+		"time": 7.2,
+		"type": "hold",
+		"endTime": 7.8
+	},
+	{
+		"time": 8,
+		"lane": 1,
+		"type": "tap"
+	},
+	{
+		"time": 8.2,
+		"lane": 2,
+		"type": "tap"
+	},
+	{
+		"time": 8.4,
+		"lane": 3,
+		"type": "tap"
+	},
+	{
+		"time": 121.075,
+		"type": "tap"
+	},
+	{
+		"time": 81.575,
+		"type": "tap"
+	},
+	{
+		"time": 83.55,
+		"lane": 1,
+		"type": "tap"
+	},
+	{
+		"time": 73.75,
+		"lane": 3,
+		"type": "tap"
+	},
+	{
+		"time": 6.025,
+		"lane": 2,
+		"type": "tap"
+	},
+	{
+		"time": 177.2,
+		"lane": 1,
+		"type": "tap"
+	},
+	{
+		"time": 12.725,
+		"lane": 1,
+		"type": "tap"
+	},
+	{
+		"time": 8.85,
+		"lane": 2,
+		"type": "tap"
+	},
+	{
+		"time": 5.275,
+		"lane": 1,
+		"type": "tap"
+	},
+	{
+		"time": 119.675,
+		"lane": 2,
+		"type": "tap"
+	},
+	{
+		"time": 288.7,
+		"lane": 2,
+		"type": "tap"
+	},
+	{
+		"time": 49.85,
+		"lane": 2,
+		"type": "tap"
+	},
+	{
+		"time": 26.2,
+		"lane": 1,
+		"type": "tap"
+	},
+	{
+		"time": 55.825,
+		"lane": 1,
+		"type": "tap"
+	}
+]
+}
